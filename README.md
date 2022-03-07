@@ -4,7 +4,7 @@
 * [Technologies](#technologies)
 
 ## Introduction
-Welcome! The purpose of this project is to use Python to analyze and visualize new voter registration in early 2020 versus early 2016 in 11 states and Washington, D.C. The analysis and visualizaions seek to answer the following questions: 
+Welcome! The purpose of this project is to use Python to analyze and visualize new voter registration in early 2020 versus early 2016 in 11 states and Washington, D.C. The analysis and visualizations seek to answer the following questions: 
 *  How many new voters registered in each state by year?
 *  What state had the most new voters register in each year?
 *  How did the number of new voters compare to the total population of the state?
